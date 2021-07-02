@@ -1,3 +1,3 @@
-# 3D-Scary-Maze-Game
-A 3-dimension Scary Maze Game in python with ursina.
+# the SMG game
+A 3-dimension maze game in python with ursina engine.
 In development...
